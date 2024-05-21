@@ -5,6 +5,7 @@
 - 📫 Reach me and take a look at projects I've made: https://www.linkedin.com/in/jiri-svoboda-george-freeedom/
 - 📫 Look at web page (also a project): https://georgefreedom.com/
 - 📫 I also own a business - on Vikings, their culture and swordfight training - my web (and project too): https://www.pagania.cz/
+- :sparkles: 
 --
 Coding is new literacy .. the ability to learn today is shaping the world of tomorrow .. it's time to shape !
 <!---
