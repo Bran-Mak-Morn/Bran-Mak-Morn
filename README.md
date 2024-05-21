@@ -4,7 +4,7 @@
 - 💞️ I’m enjoying working with APIs, webscraping, data processing and web app building 
 - 📫 Reach me and take a look at PROJECTS I've made: https://www.linkedin.com/in/jiri-svoboda-george-freeedom/
 - :arrow_right: Look at my WEB PAGE (in English): https://georgefreedom.com/
-- :100: I also own a business - on VIKINGS, their culture and swordfight training - my web: https://www.pagania.cz/
+- :100: I also own a business - on VIKINGS, their culture and swordfight training - my E-SHOP: https://www.pagania.cz/
 - :radio: listen to my podcasts (my SPOTIFY project in Czech): https://podcasters.spotify.com/pod/show/pagania
 - :movie_camera: check out my YOUTUBE CHANNEL (on history, Vikings & physical training): https://www.youtube.com/@paganiavikingworkshops/videos
 - :pencil: MY BLOG on CODING (in English): https://georgefreedom.com/blog-articles/
