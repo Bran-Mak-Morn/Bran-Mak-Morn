@@ -2,11 +2,13 @@
 - 👀 I’m an IT enthusiast passionate about Python, diving deeper into Data Management & Manipulation, specializing in Automation
 - 🌱 I’m currently working on expanding my Project Portfolio
 - 💞️ I’m enjoying working with APIs, webscraping, data processing and web app building 
-- 📫 Reach me and take a look at projects I've made: https://www.linkedin.com/in/jiri-svoboda-george-freeedom/
-- :arrow_right: Look at web page (also a project): https://georgefreedom.com/
-- :100: I also own a business - on Vikings, their culture and swordfight training - my web (and project too): https://www.pagania.cz/
-- :radio: listen to my podcasts (my SPOTIFY project): https://podcasters.spotify.com/pod/show/pagania
-- :movie_camera: check out my YouTube channel (on history, Vikings & physical training): https://www.youtube.com/@paganiavikingworkshops/videos
+- 📫 Reach me and take a look at PROJECTS I've made: https://www.linkedin.com/in/jiri-svoboda-george-freeedom/
+- :arrow_right: Look at my WEB PAGE (in English): https://georgefreedom.com/
+- :100: I also own a business - on VIKINGS, their culture and swordfight training - my web: https://www.pagania.cz/
+- :radio: listen to my podcasts (my SPOTIFY project in Czech): https://podcasters.spotify.com/pod/show/pagania
+- :movie_camera: check out my YOUTUBE CHANNEL (on history, Vikings & physical training): https://www.youtube.com/@paganiavikingworkshops/videos
+- :pencil: MY BLOG on CODING (in English): https://georgefreedom.com/blog-articles/
+- :bookmark_tabs: MY ARTICLES on VIKINGS, RUNES & HISTORICAL BOARD GAMES (in Czech): https://www.pagania.cz/clanky-1/ 
 - :blue_book: to relax from the worls of coding I wrote a book (in Czech) about Viking runes and Celtic Ogham (Pohanské věštění) - https://www.pagania.cz/knihy/kniha-pohanske-vesteni--primus/
 
 --
