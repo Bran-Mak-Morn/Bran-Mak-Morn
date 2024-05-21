@@ -8,6 +8,7 @@
 - :radio: listen to my podcasts (my SPOTIFY project): https://podcasters.spotify.com/pod/show/pagania
 - :movie_camera: check out my YouTube channel (on history, Vikings & physical training): https://www.youtube.com/@paganiavikingworkshops/videos
 - :blue_book: to relax from the worls of coding I wrote a book (in Czech) about Viking runes and Celtic Ogham (Pohanské věštění) - https://www.pagania.cz/knihy/kniha-pohanske-vesteni--primus/
+
 --
 Coding is new literacy .. the ability to learn today is shaping the world of tomorrow .. it's time to shape !
 <!---
