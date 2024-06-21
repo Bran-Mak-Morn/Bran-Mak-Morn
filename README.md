@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bran-Mak-Morn
 - 👀 I am a Viking that Codes - an IT enthusiast about Programming, AI, Education and Web App Development - using Python, Flask, Bootstrap & SQLAlchemy. 
 - 🌱 I’m currently working on expanding my Project Portfolio
-- 💞️ I’m enjoying working with APIs, webscraping, data processing and web app building 
+- 💞️ I enjoy creating & building and making ideas come to life
 - 📫 Reach me through LINKEDIN and take a look at PROJECTS I've made: https://www.linkedin.com/in/jiri-svoboda-george-freedom/
 - :arrow_right: Look at my WEB PAGE (in English): https://georgefreedom.com/
 - :100: I also own a business - on VIKINGS, their culture and swordfight training - my E-SHOP: https://www.pagania.cz/
