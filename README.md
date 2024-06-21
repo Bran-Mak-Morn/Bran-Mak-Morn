@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bran-Mak-Morn
-- 👀 I’m an IT enthusiast passionate about Python & Education, diving deeper into Data Management & Manipulation, specializing in Data Automation
+- 👀 I am a Viking that Codes - an IT enthusiast about Programming, AI, Education and Web App Development - using Python, Flask, Bootstrap & SQLAlchemy. 
 - 🌱 I’m currently working on expanding my Project Portfolio
 - 💞️ I’m enjoying working with APIs, webscraping, data processing and web app building 
 - 📫 Reach me through LINKEDIN and take a look at PROJECTS I've made: https://www.linkedin.com/in/jiri-svoboda-george-freedom/
