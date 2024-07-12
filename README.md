@@ -14,6 +14,7 @@
 - :blue_book: to relax from the world of coding I wrote a book (in Czech) about Viking runes and Celtic Ogham (Pohanské věštění) - https://www.pagania.cz/knihy/kniha-pohanske-vesteni--primus/
 
 --
+
 Coding is new literacy .. the ability to learn today is shaping the world of tomorrow .. it's time to shape !
 <!---
 Bran-Mak-Morn/Bran-Mak-Morn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
