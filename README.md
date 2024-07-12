@@ -5,6 +5,7 @@
 - 📫 Reach me through LINKEDIN and take a look at PROJECTS I've made: https://www.linkedin.com/in/jiri-svoboda-george-freedom/
 - :arrow_right: Look at my WEB PAGE (in English): https://georgefreedom.com/
   
+--
 - :100: I also own a business - on VIKINGS, their culture and swordfight training - my E-SHOP: https://www.pagania.cz/
 - :radio: listen to my podcasts (my SPOTIFY project in Czech): https://podcasters.spotify.com/pod/show/pagania
 - :movie_camera: check out my YOUTUBE CHANNEL (on history, Vikings & physical training): https://www.youtube.com/@paganiavikingworkshops/videos
