@@ -2,8 +2,7 @@
   
 On Coding:
 - 👀 I am a Viking that Codes - an IT enthusiast about Programming, AI, Education and Web App Development - using Python, Flask, Bootstrap & SQLAlchemy. 
-- 🌱 Web App Developer
-- 💞️ I enjoy creating & building and making ideas come to life
+- 🌱 Web App Developer with fullstack mindset
 - 📫 Reach me through LINKEDIN: https://www.linkedin.com/in/jiri-svoboda-george-freedom/
 - :arrow_right: Look at my WEB PAGE (in English): https://georgefreedom.com/
 - :pencil: read MY BLOG on coding (in English): https://georgefreedom.com/blog-articles/
