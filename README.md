@@ -15,8 +15,7 @@ On Vikings:
 - :bookmark_tabs: read my ARTICLES on RUNES & HISTORICAL BOARD GAMES (in Czech): https://www.pagania.cz/clanky-1/ 
 - :blue_book: read my book about Viking runes and Celtic Ogham (in Czech): https://www.pagania.cz/knihy/kniha-pohanske-vesteni--primus/
 --
-
-Coding is new literacy .. the ability to learn today is shaping the world of tomorrow .. it's time to shape !
+Let's connect and set sail !
 <!---
 Bran-Mak-Morn/Bran-Mak-Morn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
