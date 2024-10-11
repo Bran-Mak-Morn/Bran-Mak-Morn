@@ -16,6 +16,7 @@ On Vikings:
 - :blue_book: read my book about Viking runes and Celtic Ogham (in Czech): https://www.pagania.cz/knihy/kniha-pohanske-vesteni--primus/
 
 --
+
 Let's connect and set sail !
 <!---
 Bran-Mak-Morn/Bran-Mak-Morn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
