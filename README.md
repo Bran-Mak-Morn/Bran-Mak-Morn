@@ -14,6 +14,7 @@ On Vikings:
 - :movie_camera: check out my YOUTUBE channel: https://www.youtube.com/@paganiavikingworkshops/videos
 - :bookmark_tabs: read my ARTICLES on RUNES & HISTORICAL BOARD GAMES (in Czech): https://www.pagania.cz/clanky-1/ 
 - :blue_book: read my book about Viking runes and Celtic Ogham (in Czech): https://www.pagania.cz/knihy/kniha-pohanske-vesteni--primus/
+
 --
 Let's connect and set sail !
 <!---
