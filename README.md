@@ -4,8 +4,8 @@ On Coding:
 - 👀 I am a Viking that Codes 
 - 🌱 Web App Developer with fullstack mindset
 - tech stack: Python, Flask, Bootstrap & SQLAlchemy, currently diving into JavaScript :)
-- 📫 Reach me through LINKEDIN: https://www.linkedin.com/in/jiri-svoboda-george-freedom/
-- :arrow_right: Look at my WEB PAGE (in English): https://georgefreedom.com/
+- 📫 LINKEDIN: https://www.linkedin.com/in/jiri-svoboda-george-freedom/
+- :arrow_right: WEB PAGE (in English): https://georgefreedom.com/
 - :pencil: read MY BLOG on coding (in English): https://georgefreedom.com/blog-articles/
   
 On Vikings:
