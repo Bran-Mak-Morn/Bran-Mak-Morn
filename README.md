@@ -2,6 +2,7 @@
   
 👀 Tech Educator & Mentor exploring Python, AI, and IoT/MicroPython. Passionate about practical learning and helping others thrive in tech
 🚀 Current Focus: AI-enhanced education, mentoring tech learners, building practical IoT projects
+
 🔧 Tech Toolbox:
 * Core: Python | OOP | Git | Web Concepts (APIs, Flask) | Databases (SQL)
 * Exploring/Using: AI Tools (Prompt Engineering) | MicroPython/IoT | Docker | TinyML Concepts
