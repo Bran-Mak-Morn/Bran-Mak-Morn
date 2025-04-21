@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Bran-Mak-Morn
+👋 Hi, I’m @Bran-Mak-Morn
   
-- 👀 Tech Educator & Mentor exploring Python, AI, and IoT/MicroPython. Passionate about practical learning and helping others thrive in tech
-- 🔧 Tech Toolbox:
+👀 Tech Educator & Mentor exploring Python, AI, and IoT/MicroPython. Passionate about practical learning and helping others thrive in tech
+🔧 Tech Toolbox:
       Core: Python | OOP | Git | Web Concepts (APIs, Flask) | Databases (SQL)
       Exploring/Using: AI Tools (Prompt Engineering) | MicroPython/IoT | TinyML Concepts
       Learning: Spanish
@@ -12,6 +12,7 @@
 -- Open to collaboration and mentoring opportunities
 
 🚀 Current Focus: AI-enhanced education, mentoring tech learners, building practical IoT projects
+
 💡 Ask me about: Python, AI tools for developers, getting started with MicroPython, strategic learning
 <!---
 Bran-Mak-Morn/Bran-Mak-Morn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
