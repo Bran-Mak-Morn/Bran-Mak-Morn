@@ -9,6 +9,7 @@
 * Learning: Spanish (for Peru! 🇵🇪)
   
 💡 Ask me about: Python, AI tools for developers, getting started with MicroPython, strategic learning
+
 📫 Connect & Learn More:
 * 📫 LinkedIn: https://www.linkedin.com/in/georgefreedom/
 * :arrow_right: Website/Portfolio: https://georgefreedom.com/
