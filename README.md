@@ -5,7 +5,7 @@
 
 🔧 Tech Toolbox:
 * Core: Python | OOP | Git | Web Concepts (APIs, Flask) | Databases (SQL)
-* Exploring/Using: AI Tools (Prompt Engineering) | MicroPython/IoT | Docker | TinyML Concepts
+* Exploring/Using: AI Tools (Prompt Engineering) | MicroPython/IoT | TinyML Concepts
 * Learning: Spanish (for Peru! 🇵🇪)
   
 💡 Ask me about: Python, AI tools for developers, getting started with MicroPython, strategic learning
