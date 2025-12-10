@@ -10,7 +10,8 @@
 * Exploring/Using: AI Tools (Prompt Engineering) | TinyML Concepts
 
 📫 Connect & Learn More:
-* 📫 LinkedIn: https://www.linkedin.com/in/georgefreedom/
+*  LinkedIn: https://www.linkedin.com/in/georgefreedom/
+*  Portfolio: https://github.com/GeorgeFreedomTech
 * :arrow_right: Website: https://georgefreedom.com/
 * :pencil: Tech Blog: https://georgefreedom.com/blog-articles/
 * 🔖: Let's connect: https://cal.com/georgefreedom
