@@ -1,20 +1,30 @@
-👋 Hi, I’m @Bran-Mak-Morn
+### 👋 Hi, I’m Jiri Svoboda (George Freedom)
 
-.. currently on sabbatical learning Spanish before moving to Peru ..
-  
-👀 Technologist & Educator • From Geological Data to Resilient Code • Strategic Thinker • Passionate about practical learning
-🚀 Current Focus: future-ready learning & building projects
+> **Technologist & Educator • Systems Developer • Digital Resilience**
 
-🔧 Tech Toolbox:
-* Core: Python | OOP | Flask | Streamlit | Data Science | MicroPython/IoT
-* Exploring/Using: AI Tools (Prompt Engineering) | TinyML Concepts
+Currently operating from **Lima, Peru**, bridging the gap between physical reality and digital code. My focus is on building "Rugged IoT" systems and training the next generation of problem-solvers.
 
-📫 Connect & Learn More:
-*  LinkedIn: https://www.linkedin.com/in/georgefreedom/
-*  Portfolio: https://github.com/GeorgeFreedomTech
-* :arrow_right: Website: https://georgefreedom.com/
-* :pencil: Tech Blog: https://georgefreedom.com/blog-articles/
-* 🔖: Let's connect: https://cal.com/georgefreedom
+---
+
+### 🔭 What I do
+* **Resilient Machines:** Architecting autonomous, off-grid monitoring systems using Python & ESP32.
+* **Resilient People:** Designing strategic IT training programs for schools, IT academies and government agencies.
+
+### 🛠️ The Toolbox
+* **Languages:** Python, MicroPython
+* **IoT & Hardware:** ESP32, LoRa, Sensors, 'Dead Metal' Protocols
+* **Data & Viz:** Pandas, Streamlit, SQLite
+
+---
+
+### 🚀 Featured Projects
+Most of my public work and educational materials are hosted in my organization:
+👉 **[George Freedom Tech](https://github.com/GeorgeFreedomTech)**
+
+### 📫 Connect
+* 🌐 **Website:** [georgefreedom.com](https://georgefreedom.com/)
+* 💼 **LinkedIn:** [in/georgefreedom](https://www.linkedin.com/in/georgefreedom/)
+* 📝 **Tech Blog:** [georgefreedom.com/blog-articles](https://georgefreedom.com/blog-articles/)
 
 <!---
 Bran-Mak-Morn/Bran-Mak-Morn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
