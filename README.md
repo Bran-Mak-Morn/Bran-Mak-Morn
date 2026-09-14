@@ -2,7 +2,7 @@
 
 > **Educator • Product Builder • System Thinking & Digital Resilience**
 
-I focus on simple, straightforward technology that solves practical problems. I divide my time between writing Python applications, designing clean web layouts, experimenting with hardware, and teaching software logic. 
+I focus on simple, straightforward technology that solves practical problems.
 
 I look at everything as a system—whether I am building a data pipeline, running an e-commerce project, or structuring an IT course. My approach is completely independent and driven by a simple rule: a well-designed system beats raw motivation. Currently based in Peru.
 
@@ -15,8 +15,8 @@ I look at everything as a system—whether I am building a data pipeline, runnin
 
 ### 🛠️ The Toolbox
 * **Languages & Web:** Python, HTML5, CSS3, MicroPython
-* **Frameworks & Libraries:** Flask, Streamlit, Pandas, NumPy, Matplotlib
-* **Databases & Tools:** SQLite, Git, AI-assisted development workflows
+* **Frameworks & Libraries:** Flask, Streamlit, FastAPI, Pandas, NumPy, Matplotlib
+* **Databases & Tools:** SQLite, DuckDB, Git, AI-assisted development workflows (LLMs, Ollama, AnythingLLM, Pi agent)
 * **Hardware / IoT:** ESP32 microcontrollers, Sensors, Local data protocols
 
 ---
