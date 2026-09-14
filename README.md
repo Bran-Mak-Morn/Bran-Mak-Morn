@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Jiri Svoboda (George Freedom)
 
-> **Educator • Product Builder • System Thinking & Digital Resilience**
+> **Educator • Technical Trainer • Practical Problem Solver**
 
 I focus on simple, straightforward technology that solves practical problems.
 
