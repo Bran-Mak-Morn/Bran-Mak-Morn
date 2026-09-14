@@ -9,9 +9,9 @@ I look at everything as a system—whether I am building a data pipeline, runnin
 ---
 
 ### 🔭 What I Do
-* **Software & Web Development:** Building functional web apps and interactive tools using Python, Flask, and Streamlit, combined with responsive layouts (HTML/CSS).
+* **Software & Web Development:** Building prototypes and PoC.
 * **Hardware Prototyping:** Experimenting with microcontrollers (ESP32) and MicroPython for low-profile, local data collection.
-* **Technical Education:** Designing comprehensive IT curricula and training materials covering programming foundations, intermediate code architecture, and Object-Oriented Design (OOP).
+* **Technical Education:** Designing comprehensive IT curricula and training materials covering programming foundations, principles of code architecture, and Object-Oriented Programming (OOP).
 
 ### 🛠️ The Toolbox
 * **Languages & Web:** Python, HTML5, CSS3, MicroPython
