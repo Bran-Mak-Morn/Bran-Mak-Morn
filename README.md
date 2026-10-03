@@ -16,7 +16,7 @@ Currently based in Peru.
 * **Technical Education:** Designing comprehensive IT curricula and training materials covering programming foundations, principles of code architecture, and Object-Oriented Programming (OOP).
 
 ### 🛠️ The Toolbox
-* **Languages & Web:** Python, HTML5, CSS3, MicroPython
+* **Languages & Web:** Python & MicroPython, HTML5, CSS3, PICO CSS
 * **Frameworks & Libraries:** Flask, Streamlit, FastAPI, Pandas, NumPy, Matplotlib
 * **Databases & Tools:** SQLite, DuckDB, Git, AI-assisted development workflows (LLMs, Ollama, AnythingLLM, Pi agent)
 * **Hardware / IoT:** ESP32 microcontrollers, Sensors, Local data protocols
