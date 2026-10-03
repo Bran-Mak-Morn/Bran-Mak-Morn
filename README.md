@@ -2,7 +2,7 @@
 
 > **Educator • Technical Trainer • Practical Problem Solver**
 
-I focus on simple, straightforward technology that solves practical problems.
+I focus on simple, straightforward technology to solve problems.
 
 Motto: "A well-designed system beats raw motivation." 
 
@@ -11,9 +11,9 @@ Currently based in Peru.
 ---
 
 ### 🔭 What I Do
-* **Software & Web Development:** Building prototypes (PoC) and lean systems.
-* **Hardware Prototyping:** Experimenting with microcontrollers (ESP32) and MicroPython for low-profile, local data collection.
-* **Technical Education:** Designing comprehensive IT curricula and training materials covering programming foundations, principles of code architecture, and Object-Oriented Programming (OOP).
+* **Software & Web Development:** Building prototypes (PoC), lean web sites, apps & systems.
+* **Hardware Prototyping:** Microcontrollers (ESP32) and MicroPython.
+* **Technical Education:** Designing IT courses, upskilling and training materials.
 
 ### 🛠️ The Toolbox
 * **Languages & Web:** Python & MicroPython, HTML5, CSS3, PICO CSS
@@ -24,7 +24,7 @@ Currently based in Peru.
 ---
 
 ### 🚀 Featured Projects & Code
-Most of my public code repositories, web application demos, and educational course materials are hosted here:
+Most of my public code repositories and educational course materials are hosted here:
 👉 **[George Freedom Tech](https://github.com/GeorgeFreedomTech)**
 
 ### 📫 Connect with Me
