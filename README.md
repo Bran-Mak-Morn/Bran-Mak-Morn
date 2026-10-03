@@ -4,12 +4,14 @@
 
 I focus on simple, straightforward technology that solves practical problems.
 
-I look at everything as a system—whether I am building a data pipeline, running an e-commerce project, or structuring an IT course. My approach is completely independent and driven by a simple rule: a well-designed system beats raw motivation. Currently based in Peru.
+Motto: "A well-designed system beats raw motivation." 
+
+Currently based in Peru.
 
 ---
 
 ### 🔭 What I Do
-* **Software & Web Development:** Building prototypes and PoC.
+* **Software & Web Development:** Building prototypes (PoC) and lean systems.
 * **Hardware Prototyping:** Experimenting with microcontrollers (ESP32) and MicroPython for low-profile, local data collection.
 * **Technical Education:** Designing comprehensive IT curricula and training materials covering programming foundations, principles of code architecture, and Object-Oriented Programming (OOP).
 
