@@ -28,9 +28,9 @@ Most of my public code repositories and educational course materials are hosted 
 👉 **[George Freedom Tech](https://github.com/GeorgeFreedomTech)**
 
 ### 📫 Connect with Me
-* 🌐 **Website:** [georgefreedom.com](https://georgefreedom.com/)
-* 💼 **LinkedIn:** [linkedin.com/in/georgefreedom](https://www.linkedin.com/in/georgefreedom/)
-* 📝 **Technical Blog:** [georgefreedom.com/blog-articles](https://georgefreedom.com/blog-articles/)
+* 🌐 **[Personal Website](https://georgefreedom.com/)**
+* 💼 **[LinkedIn](https://www.linkedin.com/in/georgefreedom/)**
+* 📝 **[Technical Blog](https://georgefreedom.com/blog/)**
 
 <!---
 Bran-Mak-Morn/Bran-Mak-Morn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
